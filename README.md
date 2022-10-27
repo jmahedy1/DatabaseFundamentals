@@ -8,4 +8,4 @@ Do not use these labs as your own, but you are welcome to reference the code as 
 These labs use Oracle SQL DB. To run the queries download the two SQL files: CreateLunchDB_f21.sql and loadPenguinf21.sql
 
 # Note
-Use of SQL starts on lab 3.
+Use of SQL code starts on lab 3.
