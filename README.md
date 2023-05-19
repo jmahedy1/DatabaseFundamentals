@@ -1,2 +1,2 @@
 # Usage
-Do not use these labs as your own, but you are welcome to reference the code as a learning experience.
+Do not plagiarize these labs and assignments. You are welcome to reference the code for learning and academic purposes.
